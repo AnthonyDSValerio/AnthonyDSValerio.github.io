@@ -1,0 +1,37 @@
+body {
+    background-color: #0A0908;
+}
+h1 {
+    text-align: center;
+    font-family: monospace;
+    color: #139A43;
+}
+h2 {
+    color: #0DAB76;
+}
+h3 {
+    color: #0DAB76;
+}
+ul {
+    color: #F2F4F3;
+}
+img {
+    width: 200px;
+    float: left;
+    padding: 10px;
+    background-color: purple;
+}
+
+#sobre {
+    height: 310px;
+    position: relative; 
+}
+
+p {
+    font-family: sans-serif;
+    color: #F2F4F3;
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
+}
